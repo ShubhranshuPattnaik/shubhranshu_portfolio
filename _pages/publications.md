@@ -41,14 +41,14 @@ author_profile: true
 <div class="image-container">
   <!-- Horizontal stack of images -->
   <div class="horizontal-stack">
-    <img src="/images/p14.png" height="300" alt="Image 14">
-    <img src="/images/p13.png" width="350" height="300" alt="Image 13">
+    <img src="images/p14.png" height="300" alt="Image 14">
+    <img src="images/p13.png" width="350" height="300" alt="Image 13">
   </div>
 
   <!-- Vertical stack of images -->
   <div class="vertical-stack">
-    <img src="/images/p1.png" class="large"   alt="Image 1">
-    <img src="/images/p12.png" class="large" alt="Image 12">
+    <img src="images/p1.png" class="large"   alt="Image 1">
+    <img src="images/p12.png" class="large" alt="Image 12">
   </div>
 </div>
 
