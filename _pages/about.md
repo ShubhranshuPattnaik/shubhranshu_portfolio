@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there 👋 My name is **Shubhranshu Pattnaik** [[CV]](https://pages.github.com/).
+Hi there 👋 My name is **Shubhranshu Pattnaik** [[Resume]](https://ShubhranshuPattnaik.github.io/files/ShubhranshuPattnaik_Resume.pdf).
 
 I’m a **Master’s student in Applied Data Science at the University of Southern California**, specializing in machine learning, computer vision, and generative AI. My passion is creating intelligent systems that adapt, learn, and interact meaningfully with the world.
 
