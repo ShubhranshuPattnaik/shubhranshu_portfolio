@@ -12,7 +12,7 @@ title                    : "Shubhranshu Pattnaik"
 title_separator          : "-"
 name                     : &name "Shubhranshu Pattnaik"
 description              : &description "personal description"
-url                      : https://shubhranshupattnaik.github.io/shubhranshu_portfolio/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shubhranshupattnaik.github.io/shubhranshu_portfolio/   # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shubhranshupattnaik.github.io/shubhranshu_portfolio"
 
