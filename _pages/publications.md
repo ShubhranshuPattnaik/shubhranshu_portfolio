@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 * **Custom Sentiment Analysis with DistilBERT and DistilBertTokenizerFast**  
-[\[Link\]](https://github.com/ShubhranshuPattnaik/Custom-Sentiment-Analysis-with-DistilBERT/blob/main/Custom_Sentiment_Analysis.ipynb) 
+[\[Link\]](https://github.com/ShubhranshuPattnaik/Custom-Sentiment-Analysis-with-DistilBERT/blob/main/CUSTOM_SENTIMENT_ANALYSIS_WITH_DISTILBERT_and_DistilBertTokenizerFast.ipynb) 
 
     The Custom Sentiment Analysis with DistilBERT and DistilBertTokenizerFast project utilizes Pandas for data preprocessing, TensorFlow for model training, and Hugging Face's Transformers for leveraging the DistilBERT model. The aim is to classify SMS messages as either "Spam" or "Not Spam" using state-of-the-art NLP techniques.
 

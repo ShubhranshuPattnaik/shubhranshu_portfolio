@@ -30,7 +30,7 @@ Through my research and publications, I aim to create AI systems that are transp
 IEEE Microwaves, Antennas, and Propagation Conference (MAPCON), 2023 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10464080) 
 <p align="center">
 <img style="float: center;" src="images/psocnn.png" width="350" height="300">
-<img style="float: center;" src="/images/psocnnresult.png" width="350" height="300">
+<img style="float: center;" src="images/psocnnresult.png" width="350" height="300">
 </p>
 
 - **TSE-ML: Fault and Location Detection in Planar Antenna Array Using Tuned Stacking Ensemble Machine Learning Approach**  
